@@ -7,9 +7,12 @@ GetItOrShipIt is a comparison shopping app that allows you to compare a brick an
 This website is a front end application which uses HTML, CSS, Javascript, JQuery and Bootstrap. the information is all pulled from third party API's provided by Wal-mart, Ebay and Google.
 
 ## Notes
-This was a group project from bootcamp. This code was forked from the last time I contributed to it to show the project as it was the last time I worked on it. We are considering making this a production level app in the future when time allows.
+This was a group project from bootcamp. This code was forked from the last time I contributed to it to show the project as it was at that time. We are considering making this a production level app in the future when time allows.
 
 ## Authors
 [Kenneth Prettman](https://github.com/KentsCode)
 [Quintessa Anderson](https://github.com/GrandSuccess87)
 [Erica Barraca](https://github.com/ebarraca)
+
+## On the web at 
+[GetItORShipIt](http://quintessacanderson.com/)
